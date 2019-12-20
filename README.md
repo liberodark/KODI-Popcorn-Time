@@ -1,6 +1,4 @@
-#This is the continuation of Diblo's work on bringing Popcorn Time to KODI.#
-
-# KODI Popcorn Time #
+# KODI Popcorn Time
 
 [![CodeFactor](https://www.codefactor.io/repository/github/liberodark/kodi-popcorn-time/badge)](https://www.codefactor.io/repository/github/liberodark/kodi-popcorn-time)
 
