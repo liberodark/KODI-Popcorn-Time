@@ -12,8 +12,8 @@
 	</extension>
 	<extension point="xbmc.addon.metadata">
 		<platform>all</platform>
-		<website><![CDATA[https://markop159.github.io/KodiPopcornTime/]]></website>
-		<source><![CDATA[https://github.com/markop159/KODI-Popcorn-Time]]></source>
+		<website><![CDATA[https://github.com/liberodark/KODI-Popcorn-Time]]></website>
+		<source><![CDATA[https://github.com/liberodark/KODI-Popcorn-Time]]></source>
 		<language>English</language>
 		<licence><![CDATA[GNU GENERAL PUBLIC LICENCE. Version 3, 29 June 2007]]></licence>
 		<summary lang="en"><![CDATA[KODI Popcorn Time: Stream movies, Tv Shows and Anime in KODI.]]></summary>
@@ -33,8 +33,8 @@
 	</extension>
 	<extension point="xbmc.addon.metadata">
 		<platform>all</platform>
-		<website><![CDATA[https://markop159.github.io/KodiPopcornTime/]]></website>
-		<source><![CDATA[https://github.com/markop159/KODI-Popcorn-Time]]></source>
+		<website><![CDATA[https://github.com/liberodark/KODI-Popcorn-Time]]></website>
+		<source><![CDATA[https://github.com/liberodark/KODI-Popcorn-Time]]></source>
 		<language>English</language>
 		<licence><![CDATA[GNU GENERAL PUBLIC LICENCE. Version 3, 29 June 2007]]></licence>
 		<summary lang="en"><![CDATA[KODI Popcorn Time: Stream movies, Tv Shows and Anime in KODI.]]></summary>
@@ -43,18 +43,18 @@
 	</extension>
 </addon>
 <addon id="plugin.video.kodipopcorntime.repository"
-	name="Markop159 Repository"
+	name="liberodark Repository"
 	version="1.1.0"
-	provider-name="Markop159">
-	<extension point= "xbmc.addon.repository" name="Official Markop159 Repository">
+	provider-name="liberodark">
+	<extension point= "xbmc.addon.repository" name="Official liberodark Repository">
 		<info compressed="false">https://raw.githubusercontent.com/markop159/Markop159-repository/master/addons.xml</info>
 		<checksum>https://raw.githubusercontent.com/markop159/Markop159-repository/master/addons.xml.md5</checksum>
 		<datadir zip="true">https://raw.githubusercontent.com/markop159/Markop159-repository/master/Releases</datadir>
 	</extension>
 	<extension point="xbmc.addon.metadata">
 		<platform>all</platform>
-		<website><![CDATA[https://markop159.github.io/]]></website>
-		<source><![CDATA[https://github.com/markop159/KODI-Popcorn-Time]]></source>
+		<website><![CDATA[https://github.com/liberodark/KODI-Popcorn-Time]]></website>
+		<source><![CDATA[https://github.com/liberodark/KODI-Popcorn-Time]]></source>
 		<language>English</language>
 		<licence><![CDATA[GNU GENERAL PUBLIC LICENCE. Version 3, 29 June 2007]]></licence>
 		<summary lang="en"><![CDATA[Repository for Markop159 Kodi Addons]]></summary>
